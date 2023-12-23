@@ -1,3 +1,4 @@
+# --- Day 2 (version 2) WORKING ---
 def validate(str, max):
     split = str.split(' ')
     num = int(split[1])

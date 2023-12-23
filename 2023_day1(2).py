@@ -1,3 +1,4 @@
+# --- Day 1, Part 2 ---
 def firstNum(line):
     current_chars = ''
 

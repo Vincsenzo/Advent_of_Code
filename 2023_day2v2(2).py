@@ -1,3 +1,4 @@
+# --- Day 2, Part 2 (derived from version 2) ---
 file = open('day2data.txt', 'r')
 games = file.readlines()
 sum = 0

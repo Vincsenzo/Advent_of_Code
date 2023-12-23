@@ -1,3 +1,4 @@
+# --- Day 2 FAILED ATTEMPT ---
 def findColour(color, string, max):
     print(color)
     if color in string:

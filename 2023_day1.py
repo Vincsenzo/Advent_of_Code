@@ -1,3 +1,4 @@
+# --- Day 1 ---
 with open("day1data.txt", "r") as f:
 	lines = f.read().splitlines()
 
